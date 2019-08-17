@@ -2,7 +2,7 @@
 自动拉取ssr账号并且自动配置，无需手动添加本地文件
 
 -- ssr-crawler 项目源码
--- vpnSSR ssr 客户端
+   -- vpnSSR ssr 客户端
 
 
 
