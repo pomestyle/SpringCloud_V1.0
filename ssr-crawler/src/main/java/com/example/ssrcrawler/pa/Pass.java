@@ -8,6 +8,14 @@ import com.gargoylesoftware.htmlunit.BrowserVersion;
 import com.gargoylesoftware.htmlunit.WebClient;
 import com.gargoylesoftware.htmlunit.html.HtmlPage;
 import lombok.extern.slf4j.Slf4j;
+import org.apache.http.HttpEntity;
+import org.apache.http.HttpHost;
+import org.apache.http.client.config.RequestConfig;
+import org.apache.http.client.methods.CloseableHttpResponse;
+import org.apache.http.client.methods.HttpGet;
+import org.apache.http.impl.client.CloseableHttpClient;
+import org.apache.http.impl.client.HttpClients;
+import org.apache.http.util.EntityUtils;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
@@ -43,11 +51,11 @@ public class Pass {
     private String path;
 
 
-    public int setSsr(){
+    public int setSsr() {
         System.out.println(" 【 ssr 地址 是 】" + path);
-        System.out.println(" 【 ssr 账号数量 是 】" + sum);
-        HtmlPage htmlPage = getHtmlPage(ParamConstant.URl1);
-        if(htmlPage==null){
+        System.out.println(" 【 最大设置ssr 账号数量 是 】" + sum);
+        HtmlPage htmlPage = getHtmlPage(ParamConstant.URl3);
+        if (htmlPage == null) {
             System.err.println("连接超时！");
             return 0;
         }
@@ -97,14 +105,14 @@ public class Pass {
         Arrays.asList(list1).forEach(s1 -> {
             log.info(s1.getName());
             if ("gui-config.json".equals(s1.getName())) {
-              falg.set(true);
+                falg.set(true);
             }
         });
-        if(!falg.get()){
+        if (!falg.get()) {
             System.err.println(path + " 路径下不存在 gui-config.json！");
             return 1;
         }
-       return setFile(list);
+        return setFile(list);
 
     }
 
@@ -158,14 +166,16 @@ public class Pass {
      * @return
      */
     public static HtmlPage getHtmlPage(String url) {
-        WebClient webClient = new WebClient(BrowserVersion.CHROME);
+        int i = (int) Math.random() * 5 + 1;
+        BrowserVersion browserVersions = ParamConstant.user_agents[i];
+        WebClient webClient = new WebClient(browserVersions);
         webClient.getOptions().setJavaScriptEnabled(true);
         webClient.getOptions().setCssEnabled(false);
         webClient.getOptions().setActiveXNative(false);
         webClient.getOptions().setCssEnabled(false);
         webClient.getOptions().setThrowExceptionOnScriptError(true);
         webClient.getOptions().setThrowExceptionOnFailingStatusCode(false);
-        webClient.getOptions().setTimeout(10000);
+        webClient.getOptions().setTimeout(30000);
 
         HtmlPage htmlPage = null;
         try {
@@ -182,11 +192,27 @@ public class Pass {
         return null;
     }
 
-    public static void main(String[] args) {
-        File file = new File("c:/vpnSSR");
-        File[] list1 = file.listFiles();
-        for (int i = 0; i < list1.length; i++) {
-            System.out.println(list1[i].getName());
-        }
+    public static void main(String[] args) throws Exception {
+        sssss();
+    }
+
+
+    public static void sssss() throws Exception {
+
+        CloseableHttpClient httpClient = HttpClients.createDefault(); // 创建httpClient实例
+
+        HttpGet httpGet = new HttpGet(ParamConstant.URl3); // 创建httpget实例
+        HttpHost proxy = new HttpHost("115.28.148.192", 8118);
+        RequestConfig config = RequestConfig.custom().setProxy(proxy)
+                .setConnectTimeout(10000) // 设置连接超时时间 10秒钟
+                .setSocketTimeout(20000) // 设置读取超时时间10秒钟
+                .build();
+        httpGet.setConfig(config);
+        httpGet.setHeader("User-Agent", "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:50.0) Gecko/20100101 Firefox/50.0");
+        CloseableHttpResponse response = httpClient.execute(httpGet); // 执行http get请求
+        HttpEntity entity = response.getEntity(); // 获取返回实体
+        System.out.println("网页内容：" + EntityUtils.toString(entity, "utf-8")); // 获取网页内容
+        response.close(); // response关闭
+        httpClient.close(); // httpClient关闭
     }
 }

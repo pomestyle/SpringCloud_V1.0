@@ -11,7 +11,6 @@ import java.io.IOException;
  **/
 public class FileUtil {
 
-
     public static String fileReader(FileReader reader) throws IOException {
         char b[] = new char[1024];
         int i = 0;
