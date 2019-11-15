@@ -6,6 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="eurekaserver" />
+        <module name="eurekaserver_gky1" />
+        <module name="eurekaserver_gky1 (1)" />
+        <module name="eurekaserver_copy2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -14,6 +18,9 @@
       <module name="eurekaserver" target="1.8" />
       <module name="eurekaserver (1)" target="1.8" />
       <module name="eurekaserver (2)" target="1.8" />
+      <module name="eurekaserver_copy2" target="1.8" />
+      <module name="eurekaserver_gky1" target="1.8" />
+      <module name="eurekaserver_gky1 (1)" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -23,6 +30,9 @@
       <module name="eurekaserver" options="-parameters" />
       <module name="eurekaserver (1)" options="-parameters" />
       <module name="eurekaserver (2)" options="-parameters" />
+      <module name="eurekaserver_copy2" options="-parameters" />
+      <module name="eurekaserver_gky1" options="-parameters" />
+      <module name="eurekaserver_gky1 (1)" options="-parameters" />
     </option>
   </component>
 </project>

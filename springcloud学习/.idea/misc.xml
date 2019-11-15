@@ -7,6 +7,10 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/eurekaserver_copy/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka服务注册/eurekaserver_copy2/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka服务注册/eurekaserver/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka服务注册/eurekaserver_gky1/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka服务注册/eurekaserver_gky2/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

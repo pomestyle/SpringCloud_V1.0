@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka服务注册/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/eureka服务注册/eurekaserver/eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka服务注册/eurekaserver_copy2/eurekaserver_copy2.iml" filepath="$PROJECT_DIR$/eureka服务注册/eurekaserver_copy2/eurekaserver_copy2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka服务注册/eurekaserver_gky1/eurekaserver_gky1.iml" filepath="$PROJECT_DIR$/eureka服务注册/eurekaserver_gky1/eurekaserver_gky1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka服务注册/eurekaserver_gky2/eurekaserver_gky1 (1).iml" filepath="$PROJECT_DIR$/eureka服务注册/eurekaserver_gky2/eurekaserver_gky1 (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springcloud学习.iml" filepath="$PROJECT_DIR$/.idea/springcloud学习.iml" />
     </modules>
   </component>
