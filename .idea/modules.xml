@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD:springcloud学习/.idea/modules.xml
-      <module fileurl="file://$PROJECT_DIR$/eureka服务注册/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/eureka服务注册/eurekaserver/eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka服务注册/eurekaserver1/eurekaserver1.iml" filepath="$PROJECT_DIR$/eureka服务注册/eurekaserver1/eurekaserver1.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka服务注册/eurekaserver_copy2/eurekaserver_copy2.iml" filepath="$PROJECT_DIR$/eureka服务注册/eurekaserver_copy2/eurekaserver_copy2.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka服务注册/eurekaserver_gky1/eurekaserver_gky1.iml" filepath="$PROJECT_DIR$/eureka服务注册/eurekaserver_gky1/eurekaserver_gky1.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka服务注册/eurekaserver_gky2/eurekaserver_gky1 (1).iml" filepath="$PROJECT_DIR$/eureka服务注册/eurekaserver_gky2/eurekaserver_gky1 (1).iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/springcloud学习.iml" filepath="$PROJECT_DIR$/.idea/springcloud学习.iml" />
-=======
+      <module fileurl="file://$PROJECT_DIR$/eureka服务注册/eurekaserver_gky2/eurekaserver_gky2.iml" filepath="$PROJECT_DIR$/eureka服务注册/eurekaserver_gky2/eurekaserver_gky2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springcloud.iml" filepath="$PROJECT_DIR$/.idea/springcloud.iml" />
->>>>>>> 98c294227d695141f9251928860d25f048cbe62d:.idea/modules.xml
+      <module fileurl="file://$PROJECT_DIR$/.idea/springcloud学习.iml" filepath="$PROJECT_DIR$/.idea/springcloud学习.iml" />
     </modules>
   </component>
 </project>
