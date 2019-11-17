@@ -9,3 +9,9 @@ eureka:
 
 server:
   port: 8080
+
+
+
+user-server: # 这个配置是请求的服务名
+  ribbon:
+    NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule

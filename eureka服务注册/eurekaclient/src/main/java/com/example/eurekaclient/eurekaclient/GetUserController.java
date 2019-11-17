@@ -3,6 +3,7 @@ package com.example.eurekaclient.eurekaclient;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.client.ServiceInstance;
 import org.springframework.cloud.client.discovery.DiscoveryClient;
+import org.springframework.cloud.client.loadbalancer.LoadBalancerClient;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
@@ -26,7 +27,20 @@ public class GetUserController {
     @Autowired
     DiscoveryClient discoveryClient;
 
+    @RequestMapping("get")
+    public User getUser(int id){
+        //user微服务的名字 用来想此服务发送请求
+        String  servceId = "user-server";
 
+        String url = "http://" + servceId  + "/getUser?id=" + id;
+        System.out.println(url +  " =  " +  url);
+        User forObject = restTemplate.getForObject(url, User.class);
+
+
+        return forObject;
+    }
+
+/*
     @RequestMapping("get")
     public User getUser(int id){
         //user微服务的名字 用来想此服务发送请求
@@ -42,7 +56,7 @@ public class GetUserController {
         System.out.println(url +  " =  " +  url);
         User forObject = restTemplate.getForObject(url, User.class);
         return forObject;
-    }
+    }*/
 
 
 }

@@ -8,7 +8,7 @@ server:
 spring:
   application:
     #指定服务名称
-    name: user_server
+    name: user-server
 #  security:
 #    user:
 #      name: user

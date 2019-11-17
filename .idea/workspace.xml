@@ -2,10 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2b05d23-1037-45bc-befa-a0254fedbaf6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_3.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaclient/src/main/java/com/example/eurekaclient/eurekaclient/EurekaclientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka服务注册/eurekaclient/src/main/java/com/example/eurekaclient/eurekaclient/EurekaclientApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaclient/src/main/java/com/example/eurekaclient/eurekaclient/GetUserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka服务注册/eurekaclient/src/main/java/com/example/eurekaclient/eurekaclient/GetUserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaclient/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka服务注册/eurekaclient/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaclient/src/test/java/com/example/eurekaclient/eurekaclient/EurekaclientApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka服务注册/eurekaclient/src/test/java/com/example/eurekaclient/eurekaclient/EurekaclientApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka服务注册/eurekaserver/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver1/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka服务注册/eurekaserver1/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver_copy2/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka服务注册/eurekaserver_copy2/src/main/resources/application.yaml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +67,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/eureka服务注册/eurekaserver/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/eureka服务注册/eurekaclient/pom.xml" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -66,7 +94,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.EurekaserverApplication (1)">
+  <component name="RunManager" selected="Spring Boot.EurekaclientApplication">
+    <configuration name="EurekaclientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eurekaclient" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurekaclient.eurekaclient.EurekaclientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EurekaserverApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="eurekaserver" />
       <extension name="coverage">
@@ -134,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.EurekaserverApplication (1)" />
-        <item itemvalue="Spring Boot.EurekaserverApplication" />
-        <item itemvalue="Spring Boot.EurekaserverApplication (2)" />
         <item itemvalue="Spring Boot.EurekaserverApplication (4)" />
         <item itemvalue="Spring Boot.EurekaserverApplication (3)" />
+        <item itemvalue="Spring Boot.EurekaserverApplication (2)" />
+        <item itemvalue="Spring Boot.EurekaserverApplication (1)" />
+        <item itemvalue="Spring Boot.EurekaserverApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +187,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573888424721</updated>
-      <workItem from="1573888426674" duration="3041000" />
+      <workItem from="1573888426674" duration="4242000" />
+      <workItem from="1573962375266" duration="9120000" />
     </task>
     <servers />
   </component>
@@ -164,7 +200,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka服务注册/eurekaclient/eurekaclient.iml" filepath="$PROJECT_DIR$/eureka服务注册/eurekaclient/eurekaclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka服务注册/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/eureka服务注册/eurekaserver/eurekaserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka服务注册/eurekaserver1/eurekaserver1.iml" filepath="$PROJECT_DIR$/eureka服务注册/eurekaserver1/eurekaserver1.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka服务注册/eurekaserver_copy2/eurekaserver_copy2.iml" filepath="$PROJECT_DIR$/eureka服务注册/eurekaserver_copy2/eurekaserver_copy2.iml" />
