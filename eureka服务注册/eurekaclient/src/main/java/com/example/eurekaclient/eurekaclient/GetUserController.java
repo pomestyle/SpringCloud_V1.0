@@ -1,5 +1,6 @@
 package com.example.eurekaclient.eurekaclient;
 
+import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.client.ServiceInstance;
 import org.springframework.cloud.client.discovery.DiscoveryClient;
@@ -20,25 +21,20 @@ import java.util.Map;
 @RestController
 public class GetUserController {
 
-    @Autowired
-    RestTemplate restTemplate;
 
-    //服务发现对象
     @Autowired
-    DiscoveryClient discoveryClient;
+    private UserService userService;
 
     @RequestMapping("get")
     public User getUser(int id){
-        //user微服务的名字 用来想此服务发送请求
-        String  servceId = "user-server";
-
-        String url = "http://" + servceId  + "/getUser?id=" + id;
-        System.out.println(url +  " =  " +  url);
-        User forObject = restTemplate.getForObject(url, User.class);
 
 
-        return forObject;
+        return userService.getUser(id);
     }
+
+
+
+
 
 /*
     @RequestMapping("get")

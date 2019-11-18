@@ -22,6 +22,7 @@ public class User {
         this.count = count;
     }
 
+
     public int getId() {
         return id;
     }
