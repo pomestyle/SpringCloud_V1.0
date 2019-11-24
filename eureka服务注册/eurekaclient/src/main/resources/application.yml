@@ -14,4 +14,4 @@ server:
 
 user-server: # 这个配置是请求的服务名
   ribbon:
-    NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule
+    NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RoundRobinRule

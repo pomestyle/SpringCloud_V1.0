@@ -1,5 +1,6 @@
 package com.example.eurekaclient.eurekaclient;
 
+import com.example.eurekaclient.eurekaclient.fegin.UserFeginInterface;
 import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.client.ServiceInstance;
@@ -25,13 +26,19 @@ public class GetUserController {
     @Autowired
     private UserService userService;
 
-    @RequestMapping("get")
-    public User getUser(int id){
+    @RequestMapping("get1")
+    public User getUser1(int id){
 
 
-        return userService.getUser(id);
+        return userService.getUser1(id);
     }
 
+    @RequestMapping("get2")
+    public User getUser2(int id){
+
+
+        return userService.getUser2(id);
+    }
 
 
 
