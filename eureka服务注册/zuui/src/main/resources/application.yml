@@ -1,0 +1,31 @@
+
+server:
+  port: 5000
+spring:
+  application:
+    name: zuui-server
+
+
+
+zuul:
+  routes:
+    #标识你服务的名字，这里可以自己定义，一般方便和规范来讲还是跟自己服务的名字一样
+    user-server:
+      #服务映射的路径，通过这路径就可以从外部访问你的服务了，目的是为了不爆露你机器的IP，面向服务的路由了，给你选一个可用的出来，
+      #这里zuul是自动依赖hystrix，ribbon的，不是面向单机
+      path: /a-service/**  # user-server 指定这个开头的服务
+#      url: http://127.0.0.1:6869/ # 真正的微服务地址 写死的url
+      service-id: user-server # 指定服务id 在注册中心服务的名字
+
+
+#  将网管注册到服务注册中心
+eureka:
+  client:
+    registerWithEureka: true  #是否将自己注册到Eureka服务中，本身就是服务，所以无需注册
+    fetchRegistry: true # 是否从Eureka 中获取注册信息
+    serviceUrl:  # Eureka 客户端与Eureka服务端进行交互的地主
+      defaultZone: http://127.0.0.1:6868/eureka/
+
+  instance:
+    #将自己的ip注册到eureka服务中
+    prefer-ip-address: true

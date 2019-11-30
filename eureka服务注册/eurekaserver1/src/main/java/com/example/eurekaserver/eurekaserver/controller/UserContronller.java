@@ -1,6 +1,7 @@
 package com.example.eurekaserver.eurekaserver.controller;
 
 import com.example.eurekaserver.eurekaserver.User;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -31,7 +32,7 @@ public class UserContronller {
     }
 
     @RequestMapping("getUser")
-    public  User getUser(int id){
-        return    new User(1,"name1","男","123user");
+    public  User getUser(  int id){
+        return    new User(id,"name1","男","123user");
     }
 }

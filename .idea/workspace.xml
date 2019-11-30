@@ -2,22 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2b05d23-1037-45bc-befa-a0254fedbaf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_10_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_10_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_10_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_feign_1_4_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaclient/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka服务注册/eurekaclient/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaclient/src/main/java/com/example/eurekaclient/eurekaclient/EurekaclientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka服务注册/eurekaclient/src/main/java/com/example/eurekaclient/eurekaclient/EurekaclientApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaclient/src/main/java/com/example/eurekaclient/eurekaclient/GetUserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka服务注册/eurekaclient/src/main/java/com/example/eurekaclient/eurekaclient/GetUserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaclient/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka服务注册/eurekaclient/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka服务注册/eurekaserver1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver1/src/main/java/com/example/eurekaserver/eurekaserver/controller/UserContronller.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka服务注册/eurekaserver1/src/main/java/com/example/eurekaserver/eurekaserver/controller/UserContronller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver1/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka服务注册/eurekaserver1/src/main/resources/application.yaml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +67,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -98,7 +86,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.EurekaserverApplication (4)">
+  <component name="RunManager" selected="Spring Boot.EurekaserverApplication (3)">
     <configuration name="EurekaclientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="eurekaclient" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurekaclient.eurekaclient.EurekaclientApplication" />
@@ -173,9 +161,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.EurekaserverApplication (4)" />
         <item itemvalue="Spring Boot.EurekaserverApplication (3)" />
         <item itemvalue="Spring Boot.EurekaserverApplication (1)" />
+        <item itemvalue="Spring Boot.EurekaserverApplication (4)" />
         <item itemvalue="Spring Boot.EurekaserverApplication (2)" />
         <item itemvalue="Spring Boot.EurekaserverApplication" />
       </list>
@@ -195,7 +183,11 @@
       <workItem from="1573962375266" duration="9718000" />
       <workItem from="1574077823637" duration="4130000" />
       <workItem from="1574499712105" duration="583000" />
-      <workItem from="1574598398914" duration="4352000" />
+      <workItem from="1574598398914" duration="4950000" />
+      <workItem from="1575095278648" duration="585000" />
+      <workItem from="1575100896638" duration="1413000" />
+      <workItem from="1575102818888" duration="1708000" />
+      <workItem from="1575104996945" duration="3541000" />
     </task>
     <servers />
   </component>
@@ -214,5 +206,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/eureka服务注册/eurekaserver1/src/main/java/com/example/eurekaserver/eurekaserver/controller/UserContronller.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
