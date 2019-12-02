@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2b05d23-1037-45bc-befa-a0254fedbaf6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka服务注册/eurekaserver1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver1/src/main/java/com/example/eurekaserver/eurekaserver/controller/UserContronller.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka服务注册/eurekaserver1/src/main/java/com/example/eurekaserver/eurekaserver/controller/UserContronller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver1/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka服务注册/eurekaserver1/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/zuui/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka服务注册/zuui/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/zuui/src/test/java/com/example/zuui/ZuuiApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka服务注册/zuui/src/test/java/com/example/zuui/ZuuiApplicationTests.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +42,11 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectId" id="1TQWe2eAeCKKpNeA8yaCru4oz3I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="MyBatisLogPluginparameters" value="Parameters:" />
@@ -74,19 +78,7 @@
       <recent name="C:\Users\Administrator.I1OYHBI4VHCKRVJ\Desktop\springcloud\eureka服务注册\eurekaserver_copy2" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Spring Boot.EurekaserverApplication (3)">
+  <component name="RunManager" selected="Spring Boot.EurekaserverApplication (1)">
     <configuration name="EurekaclientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="eurekaclient" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurekaclient.eurekaclient.EurekaclientApplication" />
@@ -161,13 +153,25 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.EurekaserverApplication (3)" />
         <item itemvalue="Spring Boot.EurekaserverApplication (1)" />
+        <item itemvalue="Spring Boot.EurekaserverApplication (3)" />
         <item itemvalue="Spring Boot.EurekaserverApplication (4)" />
         <item itemvalue="Spring Boot.EurekaserverApplication (2)" />
         <item itemvalue="Spring Boot.EurekaserverApplication" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -187,7 +191,12 @@
       <workItem from="1575095278648" duration="585000" />
       <workItem from="1575100896638" duration="1413000" />
       <workItem from="1575102818888" duration="1708000" />
-      <workItem from="1575104996945" duration="3541000" />
+      <workItem from="1575104996945" duration="4024000" />
+      <workItem from="1575170789778" duration="1206000" />
+      <workItem from="1575294954632" duration="696000" />
+      <workItem from="1575296674921" duration="81000" />
+      <workItem from="1575297054998" duration="1563000" />
+      <workItem from="1575300396775" duration="665000" />
     </task>
     <servers />
   </component>
