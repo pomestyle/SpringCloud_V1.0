@@ -23,6 +23,7 @@ public class ZuuiFilter extends ZuulFilter {
      */
     @Override
     public String filterType() {
+        System.out.println("前置请求");
         return "pre";
     }
 
@@ -62,14 +63,15 @@ public class ZuuiFilter extends ZuulFilter {
         String token = request.getParameter("token");
 
         if(!"123".equals(token)){
-
+            System.out.println("非法请求");
             ctx.setSendZuulResponse(false);
             ctx.setResponseStatusCode(401);
             ctx.setResponseBody("非法请求！");
             ctx.getResponse().setContentType("application/json; charset=utf-8");
-
+            return null;
         }
 
+        System.out.println("验证通过");
         return null;
     }
 }
