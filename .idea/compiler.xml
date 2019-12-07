@@ -7,15 +7,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="eurekaserver1" />
-        <module name="eurekaserver_copy2" />
+        <module name="eurekaconfigclient" />
         <module name="eurekaserver_gky2" />
         <module name="eurekaserver_gky1" />
         <module name="eurekaserver" />
+        <module name="eurekaconfigserver" />
         <module name="eurekaclient" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="eurekaclient" target="1.8" />
+      <module name="eurekaconfigclient" target="1.6" />
+      <module name="eurekaconfigserver" target="1.8" />
       <module name="eurekaserver" target="1.8" />
       <module name="eurekaserver1" target="1.8" />
       <module name="eurekaserver_copy2" target="1.8" />
@@ -26,6 +29,8 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="eurekaclient" options="-parameters" />
+      <module name="eurekaconfigclient" options="" />
+      <module name="eurekaconfigserver" options="-parameters" />
       <module name="eurekaserver" options="-parameters" />
       <module name="eurekaserver1" options="-parameters" />
       <module name="eurekaserver_copy2" options="-parameters" />
