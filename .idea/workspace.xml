@@ -2,158 +2,293 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2b05d23-1037-45bc-befa-a0254fedbaf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/$CACHE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/dictionaries" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_9_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_9_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_9_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_github_andrewoma_dexx_dexx_collections_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_github_vlsi_compactmap_compactmap_1_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_google_guava_guava_16_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_1_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_jcraft_jsch_0_1_54.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_jcraft_jzlib_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_netflix_servo_servo_core_0_12_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__io_micrometer_micrometer_core_1_1_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__joda_time_joda_time_2_10_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_60.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_60.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_5_1_3_201810200350_r.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_http_apache_5_1_3_201810200350_r.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_freemarker_freemarker_2_3_29.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_17_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_28.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_28.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_1_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_1_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_1_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_1_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_1_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_server_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_spring_aop_5_1_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_spring_beans_5_1_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_spring_context_5_1_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_spring_context_support_5_1_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_spring_core_5_1_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_spring_expression_5_1_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_spring_test_5_1_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_spring_web_5_1_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/spring cloud configserver.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/springcloudconfigserver.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_9_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_10_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_10_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_10_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_1_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_1_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_feign_1_4_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_hystrix_1_4_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_1_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_1_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_10_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka服务注册/zuui/src/main/java/com/example/zuui/filter/ZuuiFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka服务注册/zuui/src/main/java/com/example/zuui/filter/ZuuiFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaclient/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaclient/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaclient/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaclient/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaclient/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaclient/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaclient/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaclient/src/main/java/com/example/eurekaclient/eurekaclient/EurekaclientApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaclient/src/main/java/com/example/eurekaclient/eurekaclient/GetUserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaclient/src/main/java/com/example/eurekaclient/eurekaclient/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaclient/src/main/java/com/example/eurekaclient/eurekaclient/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaclient/src/main/java/com/example/eurekaclient/eurekaclient/fegin/UserFeginInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaclient/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaclient/src/test/java/com/example/eurekaclient/eurekaclient/EurekaclientApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver/src/main/java/com/example/eurekaserver/eurekaserver/EurekaserverApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver/src/main/resources/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver1/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver1/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver1/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver1/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver1/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver1/src/main/java/com/example/eurekaserver/eurekaserver/EurekaserverApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver1/src/main/java/com/example/eurekaserver/eurekaserver/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver1/src/main/java/com/example/eurekaserver/eurekaserver/controller/UserContronller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver1/src/main/resources/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver_copy2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver_copy2/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver_copy2/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver_copy2/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver_copy2/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver_copy2/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver_copy2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver_copy2/src/main/java/com/example/eurekaserver/eurekaserver/EurekaserverApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver_copy2/src/main/java/com/example/eurekaserver/eurekaserver/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver_copy2/src/main/java/com/example/eurekaserver/eurekaserver/controller/UserContronller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver_copy2/src/main/resources/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver_gky1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver_gky1/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver_gky1/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver_gky1/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver_gky1/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver_gky1/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver_gky1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver_gky1/src/main/java/com/example/eurekaserver/eurekaserver/EurekaserverApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver_gky1/src/main/resources/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver_gky2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver_gky2/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver_gky2/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver_gky2/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver_gky2/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver_gky2/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver_gky2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver_gky2/src/main/java/com/example/eurekaserver/eurekaserver/EurekaserverApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/eurekaserver_gky2/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/regstertoeureka/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/regstertoeureka/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/regstertoeureka/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/regstertoeureka/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/regstertoeureka/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/regstertoeureka/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/regstertoeureka/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/regstertoeureka/src/main/java/com/example/regstertoeureka/regstertoeureka/RegstertoeurekaApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/regstertoeureka/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/regstertoeureka/src/test/java/com/example/regstertoeureka/regstertoeureka/RegstertoeurekaApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/$CACHE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/dictionaries" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_9_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_9_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_9_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_github_andrewoma_dexx_dexx_collections_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_github_vlsi_compactmap_compactmap_1_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_google_guava_guava_16_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_1_1_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_jcraft_jsch_0_1_54.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_jcraft_jzlib_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_netflix_servo_servo_core_0_12_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_19_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_19_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__io_micrometer_micrometer_core_1_1_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__joda_time_joda_time_2_10_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_26.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_26.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_26.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_60.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_60.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_5_1_3_201810200350_r.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_http_apache_5_1_3_201810200350_r.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_freemarker_freemarker_2_3_29.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_17_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_1_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_1_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_1_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_1_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_1_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_1_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_1_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_2_1_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_1_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_1_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_2_1_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_2_1_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_2_1_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_1_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_1_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_1_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_server_2_1_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_1_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_spring_aop_5_1_10_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_spring_beans_5_1_10_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_spring_context_5_1_10_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_spring_context_support_5_1_10_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_spring_core_5_1_10_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_spring_expression_5_1_10_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_10_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_spring_test_5_1_10_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_spring_web_5_1_10_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_10_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/spring cloud configserver.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/springcloudconfigserver/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/springcloudconfigserver/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/springcloudconfigserver/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/springcloudconfigserver/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/springcloudconfigserver/src/main/java/com/example/springcloudconfigserver/SpringcloudconfigserverApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/springcloudconfigserver/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/spring cloud configserver/springcloudconfigserver/src/test/java/com/example/springcloudconfigserver/SpringcloudconfigserverApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/zuui/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/zuui/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/zuui/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/zuui/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/zuui/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/zuui/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/zuui/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/zuui/src/main/java/com/example/zuui/ZuuiApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/zuui/src/main/java/com/example/zuui/filter/ZuuiFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/zuui/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/zuui/src/test/java/com/example/zuui/JcJdchgz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/zuui/src/test/java/com/example/zuui/ZuuiApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka服务注册/zuui/src/test/java/com/example/zuui/test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,7 +344,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/eureka服务注册/spring cloud configserver" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/eureka-client-6870/pom.xml" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -225,6 +360,9 @@
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator.I1OYHBI4VHCKRVJ\Desktop\springcloud\eureka-client" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator.I1OYHBI4VHCKRVJ\Desktop\springcloud\eureka服务注册\spring cloud configserver" />
       <recent name="C:\Users\Administrator.I1OYHBI4VHCKRVJ\Desktop\springcloud\eureka服务注册\eurekaserver_copy2" />
@@ -350,6 +488,10 @@
       <workItem from="1575297054998" duration="1563000" />
       <workItem from="1575300396775" duration="665000" />
       <workItem from="1575376762661" duration="587000" />
+      <workItem from="1575548385262" duration="4711000" />
+      <workItem from="1575633577429" duration="3725000" />
+      <workItem from="1575693992924" duration="4062000" />
+      <workItem from="1575709325439" duration="927000" />
     </task>
     <servers />
   </component>
@@ -370,42 +512,58 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1575381259592">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1575709358374">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1575381259592" />
-    <state width="1876" height="161" key="GridCell.Tab.0.bottom" timestamp="1575382156923">
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1575709358374" />
+    <state width="1876" height="89" key="GridCell.Tab.0.bottom" timestamp="1575709314603">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="161" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575382156923" />
-    <state width="1876" height="161" key="GridCell.Tab.0.center" timestamp="1575382156923">
+    <state width="1876" height="89" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575709314603" />
+    <state width="1876" height="89" key="GridCell.Tab.0.center" timestamp="1575709314603">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="161" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575382156923" />
-    <state width="1876" height="161" key="GridCell.Tab.0.left" timestamp="1575382156923">
+    <state width="1876" height="89" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575709314603" />
+    <state width="1876" height="89" key="GridCell.Tab.0.left" timestamp="1575709314603">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="161" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575382156923" />
-    <state width="1876" height="161" key="GridCell.Tab.0.right" timestamp="1575382156923">
+    <state width="1876" height="89" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575709314603" />
+    <state width="1876" height="89" key="GridCell.Tab.0.right" timestamp="1575709314603">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="161" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575382156923" />
-    <state width="1876" height="161" key="GridCell.Tab.1.bottom" timestamp="1575382156923">
+    <state width="1876" height="89" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575709314603" />
+    <state width="1876" height="89" key="GridCell.Tab.1.bottom" timestamp="1575709314603">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="161" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575382156923" />
-    <state width="1876" height="161" key="GridCell.Tab.1.center" timestamp="1575382156923">
+    <state width="1876" height="89" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575709314603" />
+    <state width="1876" height="89" key="GridCell.Tab.1.center" timestamp="1575709314603">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="161" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575382156923" />
-    <state width="1876" height="161" key="GridCell.Tab.1.left" timestamp="1575382156923">
+    <state width="1876" height="89" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575709314603" />
+    <state width="1876" height="89" key="GridCell.Tab.1.left" timestamp="1575709314603">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="161" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575382156923" />
-    <state width="1876" height="161" key="GridCell.Tab.1.right" timestamp="1575382156923">
+    <state width="1876" height="89" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575709314603" />
+    <state width="1876" height="89" key="GridCell.Tab.1.right" timestamp="1575709314603">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="161" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575382156923" />
+    <state width="1876" height="89" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575709314603" />
+    <state width="1876" height="89" key="GridCell.Tab.2.bottom" timestamp="1575709314604">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="89" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575709314604" />
+    <state width="1876" height="89" key="GridCell.Tab.2.center" timestamp="1575709314603">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="89" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575709314603" />
+    <state width="1876" height="89" key="GridCell.Tab.2.left" timestamp="1575709314603">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="89" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575709314603" />
+    <state width="1876" height="89" key="GridCell.Tab.2.right" timestamp="1575709314604">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="89" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575709314604" />
     <state x="387" y="140" key="SettingsEditor" timestamp="1575381072547">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -414,6 +572,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="482" y="144" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1575381006758" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1575710100647">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1575710100647" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
